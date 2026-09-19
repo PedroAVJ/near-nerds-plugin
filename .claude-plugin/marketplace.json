@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "nier-nerds",
+  "description": "Nier Nerds public profile plugin for Claude.",
+  "owner": {
+    "name": "PedroAVJ"
+  },
+  "plugins": [
+    {
+      "name": "nier-nerds",
+      "description": "Meet people through what they like to build and discuss.",
+      "category": "Productivity",
+      "source": "./plugins/nier-nerds",
+      "version": "0.1.0"
+    }
+  ]
+}
