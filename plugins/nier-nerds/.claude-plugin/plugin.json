@@ -1,8 +1,0 @@
-{
-  "name": "nier-nerds",
-  "version": "0.1.0",
-  "description": "Read public Nier Nerds profiles and draft owner-approved updates from Codex or Claude conversations.",
-  "author": {
-    "name": "PedroAVJ"
-  }
-}

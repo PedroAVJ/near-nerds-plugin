@@ -1,14 +1,14 @@
 {
-  "name": "nier-nerds",
+  "name": "near-nerds",
   "interface": {
-    "displayName": "Nier Nerds"
+    "displayName": "Near Nerds"
   },
   "plugins": [
     {
-      "name": "nier-nerds",
+      "name": "near-nerds",
       "source": {
         "source": "local",
-        "path": "./plugins/nier-nerds"
+        "path": "./plugins/near-nerds"
       },
       "policy": {
         "installation": "AVAILABLE",

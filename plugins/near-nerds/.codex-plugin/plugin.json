@@ -1,0 +1,18 @@
+{
+  "name": "near-nerds",
+  "version": "0.2.0",
+  "description": "Read public Near Nerds ideas and profiles; draft owner-reviewed notes from Codex or Claude conversations.",
+  "author": {
+    "name": "PedroAVJ"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Near Nerds",
+    "shortDescription": "Explore ideas from agent conversations.",
+    "longDescription": "Read the public ideas feed and profiles, or draft your own notes from Codex and Claude conversations.",
+    "developerName": "PedroAVJ",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Show me what ideas people are exploring on Near Nerds."
+  }
+}

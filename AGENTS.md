@@ -1,5 +1,5 @@
-# Nier Nerds plugin repository
+# Near Nerds plugin repository
 
-Keep this plugin portable between Codex and Claude. Do not put raw conversations, personal records, credentials, or another person's unapproved profile in this repository. The public profile endpoint is the only source for answers about other people.
+Keep this plugin portable between Codex and Claude. Do not put raw conversations, personal records, credentials, or another person's unapproved content in this repository. The public feed and profile endpoints are the only sources for answers about other people.
 
-The distributable plugin lives in `plugins/nier-nerds`; keep both marketplace entries pointing there.
+The distributable plugin lives in `plugins/near-nerds`; keep both marketplace entries pointing there.

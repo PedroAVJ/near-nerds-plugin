@@ -1,0 +1,8 @@
+{
+  "name": "near-nerds",
+  "version": "0.2.0",
+  "description": "Read public Near Nerds ideas and profiles; draft owner-reviewed notes from Codex or Claude conversations.",
+  "author": {
+    "name": "PedroAVJ"
+  }
+}
